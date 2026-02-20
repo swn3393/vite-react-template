@@ -15,7 +15,7 @@
     "publish": true
   },
   "dependencies": {
-    "hono": "4.9.7",
+    "hono": "4.11.10",
     "react": "19.0.0",
     "react-dom": "19.0.0"
   },
@@ -32,8 +32,8 @@
     "globals": "16.2.0",
     "typescript": "5.8.3",
     "typescript-eslint": "8.35.0",
-    "vite": "^6.3.6",
-    "wrangler": "4.21.x"
+    "vite": "^6.4.1",
+    "wrangler": "4.59.x"
   },
   "scripts": {
     "build": "tsc -b && vite build",
